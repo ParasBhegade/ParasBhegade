@@ -107,6 +107,28 @@ Real-time machine monitoring dashboard with a Flask API backend and custom front
 
 ---
 
+## > LEETCODE & DSA
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap" />
+
+</div>
+
+<div align="center">
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark)
+
+</div>
+
+### DSA Practice Repository
+> Consistent problem-solving practice in Python with automatic GitHub sync using LeetSync.
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/EZIO_05/)
+[![DSA Repo](https://img.shields.io/badge/DSA%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParasBhegade/leetcode-solutions)
+
+
+```
 ## > CURRENTLY
 
 ```
