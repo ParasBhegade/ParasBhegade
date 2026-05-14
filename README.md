@@ -1,4 +1,4 @@
-<img src="./name_banner.svg" width="100%" />
+<img src="./name_banner_v2.svg" width="100%" />
 
 <a href="mailto:bhegadeparas5@gmail.com">
   <img src="https://img.shields.io/badge/OPEN%20FOR%20OPPORTUNITIES-FFD700?style=for-the-badge&labelColor=000000&color=FFD700&logoColor=black" />
