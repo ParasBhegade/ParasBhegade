@@ -6,10 +6,9 @@
 
 **`Data Science Intern · AI/ML Enthusiast · Builder`**
 
-[![Portfolio](https://img.shields.io/badge/parasbhegade.me-000000?style=for-the-badge&logo=firefox&logoColor=FFD700)](https://parasbhegade.me)
+[![Portfolio](https://img.shields.io/badge/parasbhegade.me-000000?style=for-the-badge&logo=firefox&logoColor=FFD70)](https://parasbhegade.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-bhegade/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhegadeparas5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParasBhegade)
 
 ---
 
@@ -20,9 +19,9 @@ paras = {
     "name"       : "Paras Bhegade",
     "role"       : "Data Science Intern",
     "location"   : "Pune, India",
-    "education"  : "B.Tech CSE (AI & ML) — NCER Pune | Class of 2027",
-    "cgpa"       : 7.5,
-    "focus"      : ["AI/ML", "Data Science", "Web Development"],
+    "education"  : "B.Tech CSE (AI) — NCER Pune | 2027",
+    "cgpa"       : 8,
+    "focus"      : ["AI/ML", "Data Science"],
     "currently"  : "Building cool things & seeking internship opportunities",
     "contact"    : "bhegadeparas5@gmail.com"
 }
@@ -111,27 +110,35 @@ Real-time machine monitoring dashboard with a Flask API backend and custom front
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap" />
-
-</div>
-
-<div align="center">
-
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark)
+<img src="https://leetcard.jacoblin.cool/EZIO_05?theme=dark&font=Nunito&border=0&radius=20&ext=contest" />
 
 </div>
 
 ### DSA Practice Repository
 > Consistent problem-solving practice in Python with automatic GitHub sync using LeetSync.
 
+<div align="center">
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/EZIO_05/)
-[![DSA Repo](https://img.shields.io/badge/DSA%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParasBhegade/leetcode-solutions)
 
+[![DSA Repo](https://img.shields.io/badge/DSA%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParasBhegade/leetcode)
 
-```
+</div>
+
+---
+
+<div align="center">
+
+> *"We work in the dark to serve the light."*  
+> — Ezio Auditore
+
+</div>
+
+---
+
 ## > CURRENTLY
 
-```
+```txt
 B.Tech AI & ML — 3rd Year @ NCER Pune
 Deep Learning Lab Practicals (CNNs, Pre-trained Models, Regression)
 Building: AI-powered projects & exploring LLM ecosystems
